@@ -1,3 +1,6 @@
-// testing comment for git
+// my-first-roq-repo 
 
-My first comment via git comment
+//My first repo and i will be updating over time.
+
+// I will commit this via VSCode
+
